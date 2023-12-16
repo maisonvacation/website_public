@@ -1,2 +1,3 @@
 # website_bootstrap
-Website for Maison Vacation with Bootstrap 1.0
+Website for Maison Vacation 
+
